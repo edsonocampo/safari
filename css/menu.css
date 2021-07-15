@@ -25,7 +25,8 @@ a:hover {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	background: #6B8E23;
+	background: #e7e7e7;
+	width: 100%;
 
 }
 
@@ -54,7 +55,7 @@ a:hover {
 		width: 100%;
 		top: 70px;
 		right: 0px;
-		background: #9ACD32;
+		background: #e7e7e7;
 		height: 0px;
 		transition: 0.6s;
 		z-index: 1000;
@@ -108,3 +109,4 @@ a:hover {
 	}
 
 }
+
