@@ -3,18 +3,16 @@
 	border-radius: 10px;
 	border-color: black;
 	border-width: 5px;
-	line-height: 1;
 	
 }
 
 @media (max-width: 600px) {
 	iframe{
 		border-radius: 10px;
-		line-height: 1;
 	}
 	#linha {
-		width: 100%;
-		line-height: 1;
+		width: 300px;
+
 	}
 
 }

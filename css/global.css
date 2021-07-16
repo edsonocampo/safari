@@ -1,9 +1,11 @@
 
+body {
+  margin-top: 4%;
+  background-color:   #b29c7d;
+}
 .coluna {
-  padding: 0 1px;
+  padding: 0 5px;
   float: left;
-  background-color: ;
-  line-height: 1;
 }
 
 /*grid 960px */
